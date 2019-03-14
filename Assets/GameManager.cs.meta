@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ee8b67a434a8cff43ba71314f1ea2cbb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - apa2: {fileID: 1282964581960769098, guid: 32498ab3a1f94eb4f9c8cacb78145de0, type: 3}
+  - music: {instanceID: 0}
+  - ms: {instanceID: 0}
+  - tileNoteObj: {instanceID: 0}
+  - scoretext: {instanceID: 0}
+  - multitext: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
